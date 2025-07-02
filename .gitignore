@@ -1,0 +1,19 @@
+# Ignore the outer lms folder if present
+lms/
+
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+*.bak
+
+# Ignore build files except for library.exe
+*.o
+*.obj
+*.out
+*.exe
+!library.exe
+
+# Ignore logs and temp files
+*.log
+*.tmp 

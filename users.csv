@@ -1,0 +1,10 @@
+UserID,Name,Role,Password
+S101,Alice,Student,pass101
+S102,Bob,Student,pass102
+S103,Charlie,Student,pass103
+S104,David,Student,pass104
+S105,Emma,Student,pass105
+F201,Prof X,Faculty,pass201
+F202,Prof Y,Faculty,pass202
+F203,Prof Z,Faculty,pass203
+L001,Smith,Librarian,admin001

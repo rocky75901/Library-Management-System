@@ -1,0 +1,3 @@
+UserID,Role,CurrentBorrowed,FineAmount,BorrowHistory
+S101,Student,1,10.000000,B110
+F201,Faculty,2,0.000000,B102 B106

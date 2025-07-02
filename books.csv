@@ -1,0 +1,11 @@
+BookID,Title,Author,Publisher,Year,ISBN,Status
+B101, The Pragmatic Programmer, Andrew Hunt & David Thomas, Addison-Wesley,1999, 9780201616224,Available
+B102, Clean Code, Robert C. Martin, Prentice Hall,2008, 9780132350884,Borrowed
+B103, Design Patterns, Erich Gamma et al., Addison-Wesley,1994, 9780201633610,Available
+B104, Introduction to the Theory of Computation, Michael Sipser, Cengage Learning,2012, 9781133187790,Available
+B105, Artificial Intelligence: A Modern Approach, Stuart Russell & Peter Norvig, Pearson,2020, 9780134610993,Available
+B106, Database System Concepts, Abraham Silberschatz et al., McGraw-Hill,2019, 9780078022159,Borrowed
+B107, Operating System Concepts, Abraham Silberschatz et al., Wiley,2021, 9781119800361, Available  
+B108, Computer Networking: A Top-Down Approach, Kurose & Ross, Pearson,2021, 9780136681557,Available
+B109, Software Engineering, Ian Sommerville, Pearson,2015, 9780133943030,Available
+B110, Introduction to Algorithms, Cormen et al., MIT Press,2022, 9780262046305,Borrowed
